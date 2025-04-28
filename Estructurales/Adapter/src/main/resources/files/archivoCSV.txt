@@ -1,0 +1,5 @@
+nombre;apellido;edad
+Santiago;Perez;25
+Daniel;Posada;24
+Pepe;Argento;85
+Juan;Parna;22
